@@ -1,0 +1,10 @@
+numpy
+h5py 
+scipy
+pandas
+rasterio
+fiona ~= 1.8.13
+simplekml
+laspy
+matplotlib
+pyproj
