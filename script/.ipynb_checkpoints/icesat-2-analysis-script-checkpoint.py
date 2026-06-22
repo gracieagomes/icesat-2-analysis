@@ -1,5 +1,4 @@
 # Imported libraries for this project (according to PhoREAL requirements)
-# These are libraries important for analysis, so my plan is to use PhoREAL to analyze icepyx icesat-2
 import numpy as py
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -11,3 +10,4 @@ import simplekml
 import laspy
 import pyproj
 
+# Loading in data
